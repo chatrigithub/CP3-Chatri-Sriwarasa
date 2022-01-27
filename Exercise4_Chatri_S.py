@@ -1,7 +1,3 @@
-  
-from click import password_option
-
-
 Score_Foundation_Eng = 57.5
 Score_General_Bus = 84
 Score_Intro_com_sys = 36
